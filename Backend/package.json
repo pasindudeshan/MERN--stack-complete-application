@@ -1,0 +1,27 @@
+{
+  "name": "mern--stack-complete-application",
+  "version": "1.0.0",
+  "description": "Student Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodeman server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasindudeshan/MERN--stack-complete-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasindudeshan/MERN--stack-complete-application/issues"
+  },
+  "homepage": "https://github.com/pasindudeshan/MERN--stack-complete-application#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "nodeman": "^1.1.2"
+  }
+}
